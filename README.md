@@ -8,7 +8,7 @@ git clone https://github.com/personiax/kodluyoruzilkrepo.git
 ```
 
 ## Usage
-Prokeyi cloneladıktan sonra ***Visual Studio Code*** programında açınız
+Projeyi cloneladıktan sonra ***Visual Studio Code*** programında açınız.
 
 **Linux** için:
 ```console.log
